@@ -1,0 +1,23 @@
+/* HEADER */
+.titulo{
+    background-color: black;
+}
+.title{
+    color: white;
+}
+
+.sin-sublinea{
+    text-decoration: none;
+}
+
+.menu{
+    background-color: #F0A83E;
+}
+/* MAIN */
+main{
+    height: 500px;
+    background-color: aqua;
+    background-image: url(../img/fondo-pet.svg);
+    background-attachment: scroll;
+    background-size: cover;
+}
