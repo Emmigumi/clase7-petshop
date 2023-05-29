@@ -14,10 +14,46 @@
     background-color: #F0A83E;
 }
 /* MAIN */
-main{
+.fondo-img{
     height: 500px;
     background-color: aqua;
     background-image: url(../img/fondo-pet.svg);
     background-attachment: scroll;
     background-size: cover;
+}
+.paw-big{
+    font-size: 50px;
+}
+button{
+    border: none;
+}
+.btn-activado{
+    background-color: #F0A83E;
+    height: 30px;
+}
+.btn-inactivo{
+    background-color: #8A8787;
+}
+.btn{
+    border-radius: 15px;
+    height: 30px;
+}
+.precios{
+    color: #F0A83E;
+}
+.nombres-productos{
+    font-family: 'Roboto';
+}
+
+input{
+    background-color: #3C2313;
+}
+/* footer */
+footer{
+    background-color: #3C2313;
+    color: white;;
+}
+.end-mensaje{
+    background-color: #222222;
+    color: white;
 }
